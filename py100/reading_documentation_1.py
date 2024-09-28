@@ -11,3 +11,8 @@ print('Question 4: Is there a method to reverse a string, for example turning \'
 print('Question 5: How can we access the second element (\'and\') in the list [\'fish\', \'and\', \'chips\']? - we can access it with list[1]')
 
 print('Question 6: How would you determine the index of the fruit "cherry" in this list? fruits.index(\'cherry\')')
+
+print('What happens if we take the list [\'fish\', \'and\', \'chips\'] and try to access the element at index position 10?\n\
+- We a ValueError if there is no such item. Traceback (most recent call last): File "<stdin>", line 1, in <module> IndexError: list index out of range')
+
+print
