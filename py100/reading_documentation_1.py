@@ -12,7 +12,10 @@ print('Question 5: How can we access the second element (\'and\') in the list [\
 
 print('Question 6: How would you determine the index of the fruit "cherry" in this list? fruits.index(\'cherry\')')
 
-print('What happens if we take the list [\'fish\', \'and\', \'chips\'] and try to access the element at index position 10?\n\
+print('Question 7: What happens if we take the list [\'fish\', \'and\', \'chips\'] and try to access the element at index position 10?\n\
 - We a ValueError if there is no such item. Traceback (most recent call last): File "<stdin>", line 1, in <module> IndexError: list index out of range')
 
-print
+print('Question 8 Underscores are ignored for determining the numeric value of the literal. \n\
+They can be used to group digits for enhanced readability. One underscore can occur between digits, and after base specifiers like ')
+
+print('Question 9 to check type we should use the type() function')
